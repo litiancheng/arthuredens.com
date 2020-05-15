@@ -1,0 +1,6 @@
+#!/bin/sh
+
+hugo && rsync -avz --delete public/ arthur@arthuredens.com:/var/www/arthuredens.com/html/
+
+exit 0
+

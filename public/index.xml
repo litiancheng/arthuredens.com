@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试站点 </title>
+    <link>http://arthuredens.com/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2020</rights>
+    <updated>2020-05-15 21:54:10 &#43;0800 CST</updated>
+
+    
+      <item>
+        <title>第一篇博客</title>
+        <link>http://arthuredens.com/posts/my-first-post/</link>
+        <pubDate>Fri, 15 May 2020 21:54:10 CST</pubDate>
+        <author></author>
+        <guid>http://arthuredens.com/posts/my-first-post/</guid>
+        <description>&lt;p&gt;经过几年反反复复搭折腾，网站终于搭起来了。从这篇博客开始，我会记录下网站的搭建过程，一方面是方便自己日后重新搭建网站做个参考，另一方面也可以给有需要的人提供一些帮助。&lt;/p&gt;
+&lt;p&gt;由于我不是从事专业的互联网从业者，网站的搭建过程十分曲折，几乎每一步都是在学习全新知识，因此我的网站搭建方法肯定也存在大量的问题，等我之后了解了更多网络只是后，估计搭网站搭方法还会有不少改动。&lt;/p&gt;
+&lt;p&gt;这个网站除了在最开始会记录下网站自身的建设问题，还会用来记录我对工作和生活的思考，相当于日记性质，方便日后重温当年的思考过程。&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>

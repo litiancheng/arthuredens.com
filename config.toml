@@ -1,0 +1,4 @@
+baseURL = "http://arthuredens.com/"
+languageCode = "en-us"
+title = "测试站点"
+theme = "lanyon-hugo"
